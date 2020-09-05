@@ -1,2 +1,2 @@
 # python_tutorial
-python tutorial using Google colab
+Python basics Using google Colab
